@@ -6,8 +6,10 @@ https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_l
 # What is the difference between CNN and a support vector machine?
 https://www.quora.com/What-is-the-difference-between-CNN-and-a-support-vector-machine
 # Support Vector Machine
+https://www.youtube.com/watch?v=N1vOgolbjSc
+
 https://www.youtube.com/watch?v=TtKF996oEl8
 
 https://www.youtube.com/watch?v=Y6RRHw9uN9o
 
-https://www.youtube.com/watch?v=N1vOgolbjSc
+
